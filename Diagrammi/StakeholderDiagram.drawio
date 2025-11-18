@@ -1,0 +1,153 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Pagina-1" id="mewu8YLMkm0TPBU4Bjia">
+    <mxGraphModel dx="652" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-1" value="Stakeholder" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-2" value="Cliente finale" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-3" value="Cliente finale&lt;div&gt;di orologi nuovi&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-4" value="Cliente finale&lt;div&gt;di orologi usati&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-7" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="100" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="470" as="sourcePoint" />
+            <mxPoint x="100" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="100" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-10" value="Intermediario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-11" value="Centro di&lt;div&gt;&amp;nbsp;riparazione&lt;div&gt;certificato&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-12" value="Venditore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-13" value="Rivenditore di&amp;nbsp;&lt;div&gt;orologi&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;di&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;lusso&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;usati&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-14" value="Venditore&lt;div&gt;esclusivo&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-15" value="Rivenditore di&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;orologi di&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;lusso&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;nuovi&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="470" as="sourcePoint" />
+            <mxPoint x="800" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="440" />
+              <mxPoint x="800" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-17" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="700" y="470" as="sourcePoint" />
+            <mxPoint x="700" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-18" value="Azienda di&lt;div&gt;logistica e&amp;nbsp;&lt;/div&gt;&lt;div&gt;trasporti&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-19" value="Azienda produttirce&lt;div&gt;di orologi di lusso&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="580" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-20" value="Esperto di orologi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-21" value="Perito&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;orologiaio&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;certificato&lt;/span&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-22" value="Orologiaio&lt;div&gt;specializzato&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="470" as="sourcePoint" />
+            <mxPoint x="460" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="440" />
+              <mxPoint x="460" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-25" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="399" y="440" as="sourcePoint" />
+            <mxPoint x="399.41" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-26" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-27" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-28" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="270" as="sourcePoint" />
+            <mxPoint x="380" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-29" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-32" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-33" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="600" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yl7VJaoJzl0wmuOnmkJF-34" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="690" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
