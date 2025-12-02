@@ -1,0 +1,130 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Pagina-1" id="tWZeK-e7yrj7RPjPHRj9">
+    <mxGraphModel dx="2605" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-1" value="Azienda produttrice&amp;nbsp;&lt;div&gt;di orologi di lusso&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="165" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-4" value="Produttore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-6" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-4">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="400" as="sourcePoint" />
+            <mxPoint x="180" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-7" value="Centro di riparazione&lt;div&gt;certificato&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-8" value="Manutentore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-9" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-8">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-10" value="Esperto di orologi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="485" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-11" value="Certificatore/&lt;div&gt;Perito&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="485" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-12" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-11">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-14" value="Intermediario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="645" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-15" value="Amministratore&lt;div&gt;della Piattaforma&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-16" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-15">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="660" y="390" as="sourcePoint" />
+            <mxPoint x="660" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-17" value="Azienda di logistica&lt;div&gt;e trasporti&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="805" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-18" value="Gestore delle&amp;nbsp;&lt;div&gt;spedizioni&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="805" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-19" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-18">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="400" as="sourcePoint" />
+            <mxPoint x="820" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-20" value="Cliente finale" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="965" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-21" value="Acquirente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="965" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-22" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-21">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="390" as="sourcePoint" />
+            <mxPoint x="980" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-23" value="Venditore privato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="965" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-25" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="290" as="sourcePoint" />
+            <mxPoint x="980" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-26" value="Venditore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-27" value="Rivenditore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-28" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GvkRtMR5oxP3hSmYUUkf-27">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="1160" y="390" as="sourcePoint" />
+            <mxPoint x="1160" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-29" value="Acquirente di&amp;nbsp;&lt;div&gt;orologi nuovi&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-30" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="GvkRtMR5oxP3hSmYUUkf-26">
+          <mxGeometry x="-0.1429" width="160" relative="1" as="geometry">
+            <mxPoint x="1140" y="300" as="sourcePoint" />
+            <mxPoint x="1110" y="230" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-31" value="Acquirente di&lt;div&gt;orologi usati&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-33" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="GvkRtMR5oxP3hSmYUUkf-26">
+          <mxGeometry x="-0.1429" width="160" relative="1" as="geometry">
+            <mxPoint x="1060" y="280" as="sourcePoint" />
+            <mxPoint x="1210" y="230" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
