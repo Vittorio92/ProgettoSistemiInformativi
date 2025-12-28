@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
   <diagram name="Pagina-1" id="tWZeK-e7yrj7RPjPHRj9">
-    <mxGraphModel dx="1209" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
         <mxCell id="GvkRtMR5oxP3hSmYUUkf-10" value="Esperto di orologi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" parent="1" vertex="1">
           <mxGeometry x="645" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GvkRtMR5oxP3hSmYUUkf-11" value="Certificatore/&lt;div&gt;Perito&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="GvkRtMR5oxP3hSmYUUkf-11" value="Certificatore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="645" y="490" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GvkRtMR5oxP3hSmYUUkf-12" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="GvkRtMR5oxP3hSmYUUkf-11" edge="1">
@@ -111,10 +111,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2AAvrq7o7sTNUEeOzFz-3" value="Promotore&amp;nbsp;&lt;div&gt;della valutazione&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="c2AAvrq7o7sTNUEeOzFz-3" value="Promotore&amp;nbsp;&lt;div&gt;della valutazione&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1205" y="489" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c2AAvrq7o7sTNUEeOzFz-4" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="c2AAvrq7o7sTNUEeOzFz-3">
+        <mxCell id="c2AAvrq7o7sTNUEeOzFz-4" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="c2AAvrq7o7sTNUEeOzFz-3" edge="1">
           <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
             <mxPoint x="1170" y="390" as="sourcePoint" />
             <mxPoint x="1270" y="479" as="targetPoint" />
