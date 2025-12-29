@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
   <diagram name="Pagina-1" id="JXeJGDsRwrbdGBm0dUDp">
-    <mxGraphModel dx="946" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-29" value="Gestire i dati e fornire i servizi al fine di garantire integrità, trasparenza e sicurezza della Blockchain&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;facilitando l&#39;interazione tra gli stakeholder ed il software&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-28" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-29" value="Gestire i dati e fornire i servizi al fine di garantire integrità, trasparenza e sicurezza della Blockchain,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;facilitando l&#39;interazione tra gli stakeholder ed il software&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-28" vertex="1">
           <mxGeometry y="50" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rXzQPjucuu4CDvwzx9wP-33" value="&lt;b&gt;Tracciabilità&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -48,12 +48,12 @@
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rXzQPjucuu4CDvwzx9wP-35" value="&lt;b&gt;Riparazione&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1281" y="720" width="150" height="140" as="geometry">
+          <mxGeometry x="1281" y="720" width="150" height="160" as="geometry">
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-36" value="Riparare gli orologi garantendo la certificazione degli interventi sul libretto digitale e valorizzando la professionalità del servizio" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-35" vertex="1">
-          <mxGeometry y="50" width="150" height="90" as="geometry" />
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-36" value="Eseguire interventi di revisione e riparazione sugli orologi, registrando e certificando le operazioni sulla piattaforma attraverso l’aggiornamento del passaporto digitale" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-35" vertex="1">
+          <mxGeometry y="50" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rXzQPjucuu4CDvwzx9wP-45" value="&lt;b&gt;Certificare&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1281" y="520" width="150" height="140" as="geometry">
@@ -79,12 +79,12 @@
         <mxCell id="rXzQPjucuu4CDvwzx9wP-51" value="Realizzare e massimizzare le vendite di orologi di lusso nuovi, assicurando un’esperienza d’acquisto fluida e la registrazione del passaggio di proprietà" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-50" vertex="1">
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-52" value="&lt;b&gt;Acquisto orologi usati&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-52" value="&lt;b&gt;Approvigionamento&lt;/b&gt;&lt;div&gt;&lt;b&gt;orologi usati&lt;/b&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="827" y="80" width="170" height="140" as="geometry">
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0xEpQmYTbA-DaUOEKFq-3" value="Provvede all’acquisto di orologi usati (da rivenditori privati o certificati) e ne garantisce la conservazione fino alla messa in vendita" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="rXzQPjucuu4CDvwzx9wP-52" vertex="1">
+        <mxCell id="m0xEpQmYTbA-DaUOEKFq-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Provvedere all’acquisto di orologi usati (da rivenditori privati o certificati), garantendone la conservazione fino alla messa in vendita&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" parent="rXzQPjucuu4CDvwzx9wP-52" vertex="1">
           <mxGeometry y="50" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rXzQPjucuu4CDvwzx9wP-54" value="&lt;b&gt;Vendita usato&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -95,20 +95,20 @@
         <mxCell id="rXzQPjucuu4CDvwzx9wP-55" value="Favorire la commercializzazione di orologi usati, indipendentemente dalla natura del venditore (professionale o privato) valorizzando il bene nel momento del trasferimento di proprietà e incrementando i ricavi" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;labelPosition=center;verticalLabelPosition=middle;" parent="rXzQPjucuu4CDvwzx9wP-54" vertex="1">
           <mxGeometry y="50" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-56" value="&lt;b&gt;Acquisto orologi nuovi&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-56" value="&lt;b&gt;Approvigionamento&lt;/b&gt;&lt;div&gt;&lt;b&gt;orologi nuovi&lt;/b&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="80" width="150" height="140" as="geometry">
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-57" value="Provvede all’acquisto di orologi nuovi direttamente dall’azienda produttrice, assicurandone la custodia fino alla messa in vendita" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-56" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-57" value="Provvedere all’acquisto di orologi nuovi direttamente dall’azienda produttrice, assicurandone la custodia fino alla messa in vendita" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-56" vertex="1">
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-63" value="&lt;b&gt;Acquisto&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-63" value="&lt;b&gt;Acquistare&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="560" width="150" height="140" as="geometry">
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-64" value="Acquista orologi nuovi o usati, ricevendo il titolo di proprietà digitale" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-63" vertex="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-64" value="Acquistare orologi nuovi o usati, ricevendo il titolo di proprietà digitale" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="rXzQPjucuu4CDvwzx9wP-63" vertex="1">
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rXzQPjucuu4CDvwzx9wP-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rXzQPjucuu4CDvwzx9wP-29" target="rXzQPjucuu4CDvwzx9wP-11" edge="1">
@@ -123,7 +123,7 @@
             <mxPoint x="1540" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXzQPjucuu4CDvwzx9wP-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.997;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rXzQPjucuu4CDvwzx9wP-36" target="rXzQPjucuu4CDvwzx9wP-5" edge="1">
+        <mxCell id="rXzQPjucuu4CDvwzx9wP-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.272;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="rXzQPjucuu4CDvwzx9wP-36" target="rXzQPjucuu4CDvwzx9wP-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1450" y="830" as="sourcePoint" />
             <mxPoint x="1500" y="780" as="targetPoint" />
@@ -219,7 +219,7 @@
             <mxRectangle x="480" y="670" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0xEpQmYTbA-DaUOEKFq-7" value="Promuovere la vendita dell’orologio di lusso sollecitando la certificazione della qualità da parte di un professionista (certificatore/perito)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="m0xEpQmYTbA-DaUOEKFq-6" vertex="1">
+        <mxCell id="m0xEpQmYTbA-DaUOEKFq-7" value="Promuovere la vendita dell’orologio di lusso, sollecitando la certificazione della qualità da parte di un professionista (il certificatore)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=11;spacingLeft=2;" parent="m0xEpQmYTbA-DaUOEKFq-6" vertex="1">
           <mxGeometry y="50" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="m0xEpQmYTbA-DaUOEKFq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="m0xEpQmYTbA-DaUOEKFq-5" edge="1">
