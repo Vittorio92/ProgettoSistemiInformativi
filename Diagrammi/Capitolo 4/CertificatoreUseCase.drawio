@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Pagina-1" id="lEpY_BtxdAnEaeAIE0EQ">
+    <mxGraphModel dx="1142" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-1" value="Esperto di orologi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="105" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-2" value="Certificatore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-3" value="&amp;lt;&amp;lt;plays&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="28V2UXJ6s1HtwRF75Yar-2">
+          <mxGeometry x="0.0024" width="160" relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="120" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-4" value="Identificazione dell&#39;orologio&lt;div&gt;tramite Tag ID&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-5" value="Esecuzione della perizia tecnica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-6" value="Emissione del Sigillo di Garanzia Digitale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-8" value="&amp;lt;&amp;lt;invokes&amp;gt;&amp;gt;" style="endArrow=block;endSize=12;dashed=1;html=1;rounded=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-4" target="28V2UXJ6s1HtwRF75Yar-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="492" as="sourcePoint" />
+            <mxPoint x="510" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-9" value="&amp;lt;&amp;lt;invokes&amp;gt;&amp;gt;" style="endArrow=block;endSize=12;dashed=1;html=1;rounded=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-5" target="28V2UXJ6s1HtwRF75Yar-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="482" as="sourcePoint" />
+            <mxPoint x="760" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-10" value="Validazione tramite&amp;nbsp;&lt;div&gt;Computer Vision&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;endSize=12;dashed=1;html=1;rounded=0;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-5" target="28V2UXJ6s1HtwRF75Yar-10">
+          <mxGeometry x="-0.25" width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="550" as="sourcePoint" />
+            <mxPoint x="480" y="550" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=block;endSize=12;dashed=1;html=1;rounded=0;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="350" as="sourcePoint" />
+            <mxPoint x="760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-13" value="Registrazione della certificazione sulla Blockchain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-14" value="Intermediario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="745" y="39" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28V2UXJ6s1HtwRF75Yar-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="28V2UXJ6s1HtwRF75Yar-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="380" as="sourcePoint" />
+            <mxPoint x="760" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
