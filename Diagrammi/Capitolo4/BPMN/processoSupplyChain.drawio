@@ -22,7 +22,7 @@
         <mxCell id="pWFnU3-1J2D4hRe4cL8B-7" parent="pWFnU3-1J2D4hRe4cL8B-6" style="whiteSpace=wrap;connectable=0;html=1;shape=mxgraph.basic.rect;size=10;rectStyle=rounded;bottomRightStyle=square;bottomLeftStyle=square;part=1;" value="Venditore" vertex="1">
           <mxGeometry height="30" width="140" as="geometry" />
         </mxCell>
-        <mxCell id="pWFnU3-1J2D4hRe4cL8B-8" parent="pWFnU3-1J2D4hRe4cL8B-6" style="shape=mxgraph.bpmn.task2;arcSize=0;taskMarker=abstract;part=1;isLoopSub=1;connectable=0;whiteSpace=wrap;html=1;" value="Vendita orologio di lusso al cliente finale" vertex="1">
+        <mxCell id="6CLWHF80IZdOq32W45XJ-1" parent="pWFnU3-1J2D4hRe4cL8B-6" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;isLoopStandard=1;isLoopSub=1;" value="Vendita orologio di lusso al cliente finale" vertex="1">
           <mxGeometry height="60" width="140" y="30" as="geometry" />
         </mxCell>
         <mxCell id="pWFnU3-1J2D4hRe4cL8B-9" parent="pWFnU3-1J2D4hRe4cL8B-6" style="whiteSpace=wrap;connectable=0;html=1;shape=mxgraph.basic.rect;size=10;rectStyle=rounded;topRightStyle=square;topLeftStyle=square;fillColor=#C0C0C0;part=1;" value="Cliente finale" vertex="1">
